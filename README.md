@@ -1,5 +1,5 @@
 
-![](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos/blob/main/banner.png)
+![](./banner.png)
 
 
 Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrarán los materiales de clase, notebooks, datasets y recursos adicionales.
