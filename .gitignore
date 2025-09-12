@@ -177,3 +177,5 @@ cython_debug/
 .DS_Store
 *.pkl
 poetry.lock
+
+badata_ecobici_recorridos_realizados_2024.csv
