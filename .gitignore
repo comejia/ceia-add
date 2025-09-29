@@ -179,3 +179,4 @@ cython_debug/
 poetry.lock
 
 badata_ecobici_recorridos_realizados_2024.csv
+usuarios_ecobici_2024.xlsx
